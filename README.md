@@ -26,3 +26,20 @@ Served locally on localhost: all files HTTP 200, title "AntMan Protocol Card" re
 - **Push text files:** `index.html`, `manifest.json`, `README.md` (branch `main`)
 - **Icons** go via the GitHub web UI into `icons/` (push_files is text-only)
 - **Netlify:** import repo, branch main, publish root, no build command, auto-publishing ON, Public. Expected: https://antman-protocol-card.netlify.app/
+
+## Live
+
+https://antman-protocol-card.netlify.app/
+
+## How to use
+
+1. Open the live site.
+2. Pick a recognition level (Surface Breaker → AntMan Master) to see where you stand.
+3. Open each of the 5 protocol steps and read how Anthony gets real work out of an AI.
+4. Hit "Copy the protocol" to take the whole method with you.
+
+## Links
+
+- Live site: https://antman-protocol-card.netlify.app/
+- NEXUS World Hub: https://nexus-world-hub.netlify.app/
+- Repo: https://github.com/AntManThePro/antman-protocol-card
